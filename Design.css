@@ -1,0 +1,41 @@
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1px;
+  margin:0;
+  background:whitesmoke;
+  color:#333;
+}
+
+nav {
+  background-color:teal;
+  padding: 1rem;
+  text-align:justify;
+  display:flex;
+  gap: 30px;
+}
+
+nav a {
+  color:white;
+  text-decoration: none;
+  /*margin: 0 1.5 rem;*/
+  font-weight: bold;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+}
+nav a{
+  text-decoration: underline;
+}
+
+/*.Page Home{
+  max-width: 800px;
+  margin: 2 rem auto;
+  background: white;
+  padding: 2rem;
+  border-radius:0%
+  box-shadow:0 0 12px rgba(0,0,0,0.1);
+}*/
+
+h1, h2{
+  color:teal;
+  font-size:large;
+}
